@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/9668e694-7a47-46ff-9df7-430eebba81f8)
 
 
 # Pizza Sales Data Analysis
