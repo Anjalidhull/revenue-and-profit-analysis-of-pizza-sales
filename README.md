@@ -64,7 +64,7 @@ Based on the analysis conducted, I have gained several valuable insights into th
 
 8.  **July as the highest pizza eating month :** In July highest rvenue gained by sales man.
 
-****For more such insights, please view [my pizza analysis detailed report](https://docs.google.com/document/d/1eSTys1JWm5Rn4O4_951mRS2mmCHkaKxxI6GoTOYXKbI/edit?usp=sharing).**
+****For more such insights, please view [my pizza analysis detailed report](https://docs.google.com/document/d/1CTbYwzFuc9xJept0VBE6-EqpH6lsyxbU0ftin2ToLSo/edit?tab=t.0).**
 
 
 If you found this revenue and profit analysis of  pizza salesproject helpful or interesting, please consider giving it a ⭐️. Your support is greatly appreciated!
